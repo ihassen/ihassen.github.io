@@ -1,24 +1,29 @@
-- name: Pricing
+- name: Areas of Expertese
   link: /pricing/
   new_window: false
   highlight: false
-- name: Blog
-  link: /blog/
+
+- name: Solutions
+  link: /about/
   new_window: false
   highlight: false
+
 - name: About
   link: /about/
   new_window: false
   highlight: false
-- name: Contact
-  link: /contact/
+
+- name: News
+  link: /blog/
   new_window: false
   highlight: false
-- name: Login
+
+- name: Knowledge
   link: /
   new_window: true
   highlight: false
-- name: Sign Up
-  link: /
+
+- name: Customer relations
+  link: /contact/
   new_window: true
   highlight: true

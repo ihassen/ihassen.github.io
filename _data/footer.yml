@@ -1,4 +1,6 @@
 - links:
+  - name: <strong>Useful Links</strong>
+    link:
   - name: Pricing
     link: /pricing/
   - name: Blog
@@ -8,6 +10,8 @@
   - name: Contact
     link: /contact/
 - links:
+  - name: <strong>Expertises</strong>
+    link:
   - name: Login
     link: /
     new_window: true
@@ -21,17 +25,19 @@
     link: /
     new_window: true
 - links:
-  - name: Facebook
-    link: https://facebook.com/cloudcannon/
+  - name: <strong>Social Media</strong>
+    link:
+  - name: Youtube
+    link: https://youtube.com/hydrolitix/
     new_window: true
-    social_icon: Facebook
+    social_icon: Youtube
   - name: Twitter
-    link: https://twitter.com/cloudcannon/
+    link: https://x.com/Hydrolytix/
     social_icon: Twitter
     new_window: true
-  - name: YouTube
-    link: https://youtube.com/cloudcannon/
-    social_icon: YouTube
+  - name: Research Gate
+    link: https://researchgate.com/cloudcannon/
+    social_icon: Social
     new_window: true
   - name: RSS
     link: /feed.xml
